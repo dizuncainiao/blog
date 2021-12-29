@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 帝尊菜鸟的个人博客
 subtitle: ''
-description: ''
-keywords:
-author: John Doe
+description: 我真的好累，已无法再爱上谁~
+keywords: 帝尊菜鸟个人博客，帝尊菜鸟个人网站，web前端，JavaScript，CSS，HTML
+author: wangbo_hello@163.com
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://dizuncainiao.github.io
 #permalink: :year/:month/:day/:title/
 permalink: /post/:title.html
 permalink_defaults:
